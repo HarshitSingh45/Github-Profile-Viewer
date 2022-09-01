@@ -51,6 +51,8 @@ module.exports = {
         // cartTotal: "#343739",
         // cardOverlay: "rgb(256,256,256,0.4)",
         // lighttextgray: "#pca0ab",
+        searchColor: '#1e96f2',
+        backgroundColor: '#f7f6f6',
         headingColor: "#2e2e2e",
         textColor: "#515151",
         cartNumBg: "#e80013",
@@ -68,6 +70,9 @@ module.exports = {
         lg: "1024px",
         xl: "1280px",
         "2xl": "1536px",
+      },
+      boxShadow: {
+        '3xl': '0 35px 60px -15px rgba(0, 0, 0, 0.3)',
       },
     },
   },
